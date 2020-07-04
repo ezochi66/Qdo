@@ -1,0 +1,29 @@
+body {
+    background-color: darkturquoise;
+}
+
+ul {
+    list-style: none;
+}
+#header-left {
+    float: left;
+}
+
+#header-left img {
+    width: 80px;
+    float: left;
+} 
+
+#header-left h1 {
+    color: white;
+    padding-top: 10px;
+    float: right;
+}
+
+#header-right {
+    float: right;
+}
+
+#header-right li {
+    float: left;
+}
